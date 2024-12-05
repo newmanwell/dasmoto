@@ -1,0 +1,1 @@
+I started the Front End engineer path this week on Codecademy. This was a simple static webpage and I just decided to push it to my GitHub becuse I haven't pushed anything in a week and I want to keep in the habit of using git and github.
